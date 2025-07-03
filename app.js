@@ -1,14 +1,14 @@
-// let age = 19;
-// age >= 18 ? console.log("adult ") : console.log("not adult");
-// console.log(result);
+let age = 19;
+age >= 18 ? console.log("adult ") : console.log("not adult");
+console.log(result);
 
-let age = 18;
+// let age = 18;
 
-if (age >= 18){
-    console.log("you can vote")
-} else{
-    console.log("you can not vote")
-}
+// if (age >= 18){
+//     console.log("you can vote")
+// } else{
+//     console.log("you can not vote")
+// }
 
 
 // let num = prompt("enter a number");
