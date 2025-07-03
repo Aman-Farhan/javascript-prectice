@@ -1,6 +1,6 @@
-let age = 19;
-age >= 18 ? console.log("adult ") : console.log("not adult");
-console.log(result);
+// let age = 19;
+// age >= 18 ? console.log("adult ") : console.log("not adult");
+// console.log(result);
 
 let age = 18;
 
