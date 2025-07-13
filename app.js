@@ -156,7 +156,7 @@
 
 
 let priceitem1 = 400;
-let quantity1 = 3;
+// let quantity1 = 3;
 // let priceitem2 = 300;
 // let quantity2 = 5;
 // let shippingcharges = 100
