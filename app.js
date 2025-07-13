@@ -153,7 +153,7 @@
 // document.write(" end of table ");
 
 
-// let priceitem1 = 400;
+let priceitem1 = 400;
 let quantity1 = 3;
 let priceitem2 = 300;
 let quantity2 = 5;
