@@ -163,7 +163,7 @@
 // let totalCost = totalitem1 + totalitem2;
 
 // document.write("price of item1 : " + priceitem1 + "<br>");
-// document.write("quentity of item1: " + quantity1 + "<br>");
+document.write("quentity of item1: " + quantity1 + "<br>");
 document.write("price of item2: " + priceitem2 + "<br>");
 document.write("quzntity of item2 : " + quantity2 + "<br>");
 document.write("shipping charges " + shippingcharges + "<br>" + "<br>");
