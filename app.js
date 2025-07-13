@@ -159,7 +159,7 @@
 // let quantity2 = 5;
 // let shippingcharges = 100
 // let totalitem1 = priceitem1 * quantity1;
-// let totalitem2 = priceitem2 * quantity2;
+let totalitem2 = priceitem2 * quantity2;
 let totalCost = totalitem1 + totalitem2;
 
 document.write("price of item1 : " + priceitem1 + "<br>");
